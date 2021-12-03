@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GestioneSpese.Core": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\valentina.diana\\Desktop\\Valentina_Diana_Spese\\GestioneSpese.Client"
+    }
+  }
+}
